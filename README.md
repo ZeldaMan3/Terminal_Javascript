@@ -1,6 +1,6 @@
 # Terminal Interactiva
 
-Este proyecto pequeño de mi portafolio, es una terminal interactiva hecha en su totalidad en JS. Esta basada en una interfaz similar a la de una terminal de Linux.
+Este proyecto pequeño de mi portafolio, es una terminal interactiva hecha en casi su totalidad en JS. Esta basada en una interfaz similar a la de una terminal de Linux.
 
 ## Características
 
